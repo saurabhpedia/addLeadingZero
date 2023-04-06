@@ -1,6 +1,6 @@
 {
   "name": "addleadingzero",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "You can call this function with a number as an argument and it will return the number with a leading zero if it's less than 9, or the original number if it's 9 or greater:",
   "main": "console.log(addLeadingZero(9)); // Output: \"9\"",
   "scripts": {

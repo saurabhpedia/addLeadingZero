@@ -1,4 +1,4 @@
-function addLeadingZero(number) {
+function addLeadingZero(number:any) {
   if (number < 9) {
     return '0' + number;
   }
