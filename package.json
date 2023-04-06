@@ -1,0 +1,25 @@
+{
+  "name": "addleadingzero",
+  "version": "1.0.0",
+  "description": "You can call this function with a number as an argument and it will return the number with a leading zero if it's less than 9, or the original number if it's 9 or greater:",
+  "main": "console.log(addLeadingZero(9)); // Output: \"9\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpedia/addLeadingZero.git"
+  },
+  "keywords": [
+    "addleadingzero",
+    "addzero",
+    "leadingzero",
+    "digits"
+  ],
+  "author": "Saurabh Raman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhpedia/addLeadingZero/issues"
+  },
+  "homepage": "https://github.com/saurabhpedia/addLeadingZero#readme"
+}
